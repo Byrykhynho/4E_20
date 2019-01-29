@@ -5,8 +5,8 @@ esercizio di prima costruzione di un repository remoto
 * secondo file
 
 |CIAO|
-|...|
-|3|
-|4|
-|5|
-|6|
+|---|
+| 3 |
+| 4 | 
+| 5 |
+| 6 |
